@@ -8,7 +8,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan779&label=Profile%20views&color=0e75b6&style=flat" alt="kishan779" /> </p>
