@@ -20,8 +20,7 @@
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/kishan-kumar-a5a089209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/kishan-kumar-a5a089209" height="30" width="40" /></a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishan779&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
