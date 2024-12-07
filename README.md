@@ -7,9 +7,15 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan779&label=Profile%20views&color=0e75b6&style=flat" alt="kishan779" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan779" alt="kishan779" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kishan779&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
